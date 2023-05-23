@@ -1,0 +1,4 @@
+model1.py : 40%     2.8%   (pp , 2Conv)
+model2.py : 0.6553  0.6546 ( pp , 3Conv )
+model3.py : 0.9573  0.9582 ( no pp , 3Conv ) 
+model4.py : 0.4815  48.19% ( pp , 4Conv )
